@@ -1,0 +1,7 @@
+*.logs
+*.bna
+node_modules/
+composer-logs/
+coverage/
+.nyc_output/
+dist/
